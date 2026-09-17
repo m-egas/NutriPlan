@@ -4,7 +4,7 @@ NutriPlan is a responsive web application that brings recipe discovery, weekly m
 
 ## Links
 
-- [🌐 Live Demo](https://NutriPlan.netlify.app)
+- [🌐 Live Demo](https://nutriplan-portfolio.netlify.app)
 - [💻 GitHub Repository](https://github.com/m-egas/NutriPlan.git)
 
 ## Features
