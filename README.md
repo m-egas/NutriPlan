@@ -5,7 +5,7 @@ NutriPlan is a responsive web application that brings recipe discovery, weekly m
 ## Links
 
 - [🌐 Live Demo](https://NutriPlan.netlify.app)
-- [💻 GitHub Repository](https://github.com/m-egas/NutriPlan)
+- [💻 GitHub Repository](https://github.com/m-egas/NutriPlan.git)
 
 ## Features
 
@@ -20,7 +20,6 @@ NutriPlan is a responsive web application that brings recipe discovery, weekly m
 
 - Plan meals for seven days, from Monday to Sunday.
 - Organize meals into Breakfast, Lunch, and Dinner.
-
 - Remove individual recipes or clear the entire weekly plan.
 - Save the weekly meal plan.
 
@@ -95,11 +94,11 @@ NutriPlan is a responsive web application that brings recipe discovery, weekly m
 
 <div align="center"> <div> 
   <img src="./screenshots/04-home-mobile-overview.webp" alt="Home - Mobile" width="250">
-  <img src="./screenshots/08-recipes-mobile-overview.webp" alt="Recipes - Mobile" width="250">
-  </div> <br> <div>
+  <img src="./screenshots/08-recipes-mobile-overview.webp" alt="Recipes - Mobile" width="250"></div> 
+  <br> 
+  <div>
   <img src="./screenshots/14-planner-mobile-overview.webp" alt="Meal Planner - Mobile" width="250">
-  <img src="./screenshots/19-grocery-list-mobile-overview.webp" alt="Grocery List - Mobile" width="250">
-</div> </div>
+  <img src="./screenshots/19-grocery-list-mobile-overview.webp" alt="Grocery List - Mobile" width="250"></div> </div>
 
 ## Installation
 
@@ -112,9 +111,9 @@ Make sure you have Node.js and npm installed on your computer.
 Clone the repository and navigate to the project folder.
 
 ```bash
-git clone (https://github.com/m-egas/NutriPlan.git)
+git clone https://github.com/m-egas/NutriPlan.git
 
-cd nutriplan
+cd NutriPlan
 ```
 
 ### 2. Install the dependencies:
