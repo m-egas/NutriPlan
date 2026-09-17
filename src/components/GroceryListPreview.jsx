@@ -46,7 +46,7 @@ export const GroceryListPreview = () => {
           </Heading>
         </Box>
 
-        {/* View grocert list link */}
+        {/* View grocery list link */}
         <Button
           as={RouterLink}
           to="/grocery-list"
